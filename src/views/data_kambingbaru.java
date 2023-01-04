@@ -172,7 +172,7 @@ public class data_kambingbaru extends javax.swing.JDialog {
         jLabel7 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
-        setTitle("Tambah Kambing Baru");
+        setTitle("TAMBAH KAMBING BARU");
         setModalityType(null);
 
         jPanel1.setBackground(new java.awt.Color(255, 255, 255));

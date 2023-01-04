@@ -32,6 +32,7 @@ public class login extends javax.swing.JFrame {
         btnSignin1 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("MASUK");
         setBackground(new java.awt.Color(59, 68, 75));
 
         jPanel1.setBackground(new java.awt.Color(59, 68, 75));

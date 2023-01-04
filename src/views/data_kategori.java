@@ -135,7 +135,7 @@ public class data_kategori extends javax.swing.JDialog {
         jLabel7 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
-        setTitle("Data_Program");
+        setTitle("DATA PROGRAM");
         setModalityType(null);
 
         jPanel1.setBackground(new java.awt.Color(255, 255, 255));

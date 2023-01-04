@@ -158,7 +158,7 @@ public class data_kambinglama extends javax.swing.JDialog {
         jLabel7 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
-        setTitle("Data Seluruh Kambing");
+        setTitle("DATA SELURUH KAMBING");
         setModalityType(null);
 
         jPanel1.setBackground(new java.awt.Color(255, 255, 255));

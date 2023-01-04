@@ -230,7 +230,7 @@ public class data_transaksi extends javax.swing.JDialog {
         );
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
-        setTitle("Tambah Kambing Baru");
+        setTitle("DATA TRANSAKSI");
         setModalityType(null);
 
         jPanel1.setBackground(new java.awt.Color(255, 255, 255));

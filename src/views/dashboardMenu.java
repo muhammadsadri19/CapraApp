@@ -60,6 +60,7 @@ public class dashboardMenu extends javax.swing.JFrame {
         background = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("BERANDA");
         setPreferredSize(new java.awt.Dimension(1300, 700));
         setResizable(false);
 

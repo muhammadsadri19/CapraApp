@@ -69,6 +69,7 @@ public class cetakDataTransaksi extends javax.swing.JDialog {
         btnCetak = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
+        setTitle("CETAK TRANSAKSI");
         setModalityType(null);
 
         tfID.addActionListener(new java.awt.event.ActionListener() {

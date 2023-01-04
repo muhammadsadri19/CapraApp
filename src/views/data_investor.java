@@ -148,7 +148,7 @@ public class data_investor extends javax.swing.JDialog {
         jLabel7 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
-        setTitle("Data_User");
+        setTitle("DATA INVESTOR");
         setModalityType(null);
 
         jPanel1.setBackground(new java.awt.Color(255, 255, 255));
